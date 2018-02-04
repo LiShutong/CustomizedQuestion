@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>question</key>
+		<string>您目前所处的年龄阶段是：</string>
+		<key>answerArray</key>
+		<array>
+			<string>18-30</string>
+			<string>31-50</string>
+			<string>51-60</string>
+			<string>高于60岁</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>您的家庭年收入为（折合成人民币）？</string>
+		<key>answerArray</key>
+		<array>
+			<string>5万以下</string>
+			<string>5-20万</string>
+			<string>20-50万</string>
+			<string>50-100万</string>
+			<string>100万以上</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>您每年的金融产品投资比例，占您每年家庭收入的？</string>
+		<key>answerArray</key>
+		<array>
+			<string>小于10%</string>
+			<string>10%--25%</string>
+			<string>25%--50%</string>
+			<string>50%以上</string>
+		</array>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>您的投资目的是？</string>
+		<key>answerArray</key>
+		<array>
+			<string>资产保值</string>
+			<string>资产稳健增长</string>
+			<string>资产迅速增长</string>
+		</array>
+	</dict>
+</array>
+</plist>
